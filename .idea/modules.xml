@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Test123.iml" filepath="$PROJECT_DIR$/.idea/Test123.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configuration-service-development/configuration-service.iml" filepath="$PROJECT_DIR$/configuration-service-development/configuration-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-service-development/gateway-service.iml" filepath="$PROJECT_DIR$/gateway-service-development/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-service-development/gateway-service-development/gateway-service.iml" filepath="$PROJECT_DIR$/gateway-service-development/gateway-service-development/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry-service-development/registry-service.iml" filepath="$PROJECT_DIR$/registry-service-development/registry-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry-service-development/registry-service-development/registry-service.iml" filepath="$PROJECT_DIR$/registry-service-development/registry-service-development/registry-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/users-service-development/users-service.iml" filepath="$PROJECT_DIR$/users-service-development/users-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/users-service-development/users-service-development/users-service.iml" filepath="$PROJECT_DIR$/users-service-development/users-service-development/users-service.iml" />
+    </modules>
+  </component>
+</project>

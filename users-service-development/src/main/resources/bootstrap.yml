@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: users-service
+  cloud:
+    config:
+      uri: ${CONFIG_SERVER_URL}
+      fail-fast: false
+      retry:
+        initialInterval: 3000
+        multiplier: 1.3
+        maxInterval: 5000
+        maxAttempts: 20
+server:
+  port: 8081
